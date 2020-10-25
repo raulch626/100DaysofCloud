@@ -14,20 +14,22 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## [✍️ Raul Herrera's]'s Cloud Journey
 
-[✍️ Introduce yourself]
+[✍️ I am an IT Support by profession and I would like to pivot my career to the Cloud.]
 
-[✍️ Tell us why you started this challenge]
+[✍️ I have started my Cloud journey last January, and I have been doing it alone. When I saw this Cloud Community Challenge I became inspired because I realized I don't have to do it alone.
+
+Thru this online community, I can look for support as well as inspiration. Thru this community I am also planning to give back to newbies like me who are just starting their journey.]
 
 [✍️ Tell us where you want to be at the end of the challenge]
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your Twitter](https://twitter.com/raulch626)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/rcherrera)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [Learned more about Git ang Github](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
