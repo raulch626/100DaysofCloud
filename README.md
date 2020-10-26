@@ -30,7 +30,7 @@ Thru this online community, I can look for support as well as inspiration. Thru 
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [Learned more about Git ang Github](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [Review AWS Concepts - IAM Users](Journey/002/Readme.md)
+- [ ] ☁️ 2 > [Review AWS Concepts - IAM Users, S3 Storage Classes](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
