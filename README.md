@@ -14,7 +14,7 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Raul Herrera's]'s Cloud Journey
+## [✍️ Raul Herrera's]'s Cloud Journey - started Oct. 24, 2020
 
 [✍️ I am an IT Support by profession and I would like to pivot my career to the Cloud.]
 
@@ -34,7 +34,7 @@ Thru this online community, I can look for support as well as inspiration. Thru 
 - [ ] ☁️ 3 > [CloudFormation Basics, Resources To Cloud Computing, How Much Code I Need In The Cloud](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Version Controlled Infra, TF Cloud with Gitlab](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [VPC Basics, Took practice test for Cloud Practicioner, Start DevOps Course](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [CP: Computer & Network](Journey/006/Readme.md)
+- [ ] ☁️ 6 > [Cloud Practicioner: Computer & Network, ACantrill: Network Basics](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)

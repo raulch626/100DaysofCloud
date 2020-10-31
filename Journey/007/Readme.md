@@ -1,11 +1,11 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Study Visual Code Crash Course by freeCodeCamp.org
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ Maximizing the features of Visual Studio Code will make me a better programmer
 
 ## Prerequisite
 
