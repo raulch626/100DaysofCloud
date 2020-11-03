@@ -35,8 +35,8 @@ Thru this online community, I can look for support as well as inspiration. Thru 
 - [ ] ☁️ 4 > [Version Controlled Infra, TF Cloud with Gitlab](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [VPC Basics, Took practice test for Cloud Practicioner, Start DevOps Course](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Cloud Practicioner: Computer & Network, ACantrill: Network Basics](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [ ] ☁️ 7 > [S3 Security and Web Hosting](Journey/007/Readme.md)
+- [ ] ☁️ 8 > [Packer Fundamentals, Cloud Practicioner: Security ](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
