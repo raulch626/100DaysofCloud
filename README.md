@@ -37,7 +37,7 @@ Thru this online community, I can look for support as well as inspiration. Thru 
 - [ ] ☁️ 6 > [Cloud Practicioner: Computer & Network, ACantrill: Network Basics](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [S3 Security and Web Hosting](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [Packer Fundamentals, Cloud Practicioner: Security ](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
+- [ ] ☁️ 9 > [Serverless, Lambda Basics, GitHub -> TF Cloud](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road
