@@ -38,7 +38,7 @@ Thru this online community, I can look for support as well as inspiration. Thru 
 - [ ] ☁️ 7 > [S3 Security and Web Hosting](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [Packer Fundamentals, Cloud Practicioner: Security ](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [Serverless, Lambda Basics, GitHub -> TF Cloud](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 10 > [ AWS Lambda, Run A Serverless "hello World", Application Programming Interface (API) Gateway, Serverless, SNS](Journey/010/Readme.md)
 
 ## Walking down the road
 
