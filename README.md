@@ -43,7 +43,7 @@ Thru this online community, I can look for support as well as inspiration. Thru 
 ## Walking down the road
 
 - [ ] ☁️ 11 > [AWS- Back to Basics, Wordpress on AWS using Terraform](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
+- [ ] ☁️ 12 > [Acantrill: Public vs Private Services, AWS Global Infrastructure, VPC Basics, Elastic Compute Cloud (EC2)](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
