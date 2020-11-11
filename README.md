@@ -44,8 +44,8 @@ Thru this online community, I can look for support as well as inspiration. Thru 
 
 - [ ] ☁️ 11 > [AWS- Back to Basics, Wordpress on AWS using Terraform](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [Acantrill: Public vs Private Services, AWS Global Infrastructure, VPC Basics, Elastic Compute Cloud (EC2)](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
+- [ ] ☁️ 13 > [Review for AZ-900, EC2, Experiment with EC2](Journey/013/Readme.md)
+- [ ] ☁️ 14 > [Udacity Hybrid Cloud Nanodegree - Finish the 1st Project](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
