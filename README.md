@@ -48,17 +48,17 @@ Thru this online community, I can look for support as well as inspiration. Thru 
 - [ ] ☁️ 14 > [Udacity Hybrid Cloud Nanodegree - Finish the 1st Project](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [Build a webserver using TF, AZ: Review VMs and containers, AWS: S3, Cloudformation Basics, S3 Performance Demo](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [TF: Deploy a configurable Web Server, AWS: Load Balancing Fundamentals](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [ ] ☁️ 17 > [TF: How to manage TF state](Journey/017/Readme.md)
+- [ ] ☁️ 18 > [AC: HA vs FT vs DR, DNS Record Types](Journey/018/Readme.md)
+- [ ] ☁️ 19 > [ Part 3: Describe core solutions and mgt tools in Azure, Part 5:Describe identity, governance, privacy and compliance features](Journey/019/Readme.md), AC: IAM Identity Policies, IAM Users
+- [ ] ☁️ 20 > [AC: AWS Secrets Manager, AWS System Manager Parameter Store, Attend TF: HashiCorp Terraform Cloud Business Tier Workshop ](Journey/020/Readme.md)
 
 ## Crossing the bridge
 
-- [ ] ☁️ 21 > [](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [](Journey/022/Readme.md)
-- [ ] ☁️ 23 > [](Journey/023/Readme.md)
-- [ ] ☁️ 24 > [](Journey/024/Readme.md)
+- [ ] ☁️ 21 > [AZ:  Part 3: Choose the best monitoring service](Journey/021/Readme.md)
+- [ ] ☁️ 22 > [TF: Adv-IT Lesson: Terraform - Create Resources on AWS](Journey/022/Readme.md)
+- [ ] ☁️ 23 > [TF: Cloud training](Journey/023/Readme.md)
+- [ ] ☁️ 24 > [AWS: AC-VPC Sizing & Structure, Custom VPCs, VPC Subnets](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [](Journey/027/Readme.md)
